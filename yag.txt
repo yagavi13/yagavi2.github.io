@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The img element</h1>
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gcflearnfree.org%2Fcontent%2F55e0917024929be0279509f4_08_11_2014%2Fapps_photoshop_cc1.jpg&tbnid=OTIK34Cm98BFiM&vet=12ahUKEwjwsuv2rO6EAxXDzTgGHediDh4QMygBegQIARBv..i&imgrefurl=https%3A%2F%2Fedu.gcfglobal.org%2Fen%2Fphotoshopbasics%2Fwhat-is-photoshop%2F1%2F&docid=GNq0AlZnJiLdnM&w=1704&h=1354&q=photoshop&ved=2ahUKEwjwsuv2rO6EAxXDzTgGHediDh4QMygBegQIARBv" alt="Girl in a jacket" width="500" height="600">
+
+</body>
+</html>
